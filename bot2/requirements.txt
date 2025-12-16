@@ -1,0 +1,23 @@
+# Для логирования
+loguru==0.7.2
+
+# Для асинхронных операций с БД
+asyncpg==0.28.0
+
+# Для работы с датами
+python-dateutil==2.8.2
+
+# Для валидации данных
+pydantic==2.5.0
+
+# Для кэширования
+redis==5.0.1
+
+# Для тестирования
+pytest==7.4.0
+
+# requirements.txt
+python-telegram-bot==20.7
+redis==5.0.1
+Pillow==10.0.1
+aiohttp==3.8.5
